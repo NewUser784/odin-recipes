@@ -2,6 +2,7 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+/* index.html */
 h1 {
     background-color: rgb(193, 159, 75);
     color: white;
@@ -12,4 +13,21 @@ h1 {
     list-style-type: square;
     padding: 6px;
     font-size: 26px;
+}
+/* End of index.html css */
+
+img {
+    width: 600px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+/* herby ricotta */
+.herby-ricotta-h2 {
+    background-color: rgb(175, 130, 92);
+    color: white;
+    margin-right: 920px;
 }
