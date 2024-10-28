@@ -1,5 +1,15 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 h1 {
     background-color: rgb(193, 159, 75);
     color: white;
     text-align: center;
+}
+
+.recipe-list-element {
+    list-style-type: square;
+    padding: 6px;
+    font-size: 26px;
 }
