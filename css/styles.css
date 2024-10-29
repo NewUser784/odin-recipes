@@ -31,16 +31,16 @@ h2 {
     border-radius: 4px;
 }
 
-.ingredients-ulist li {
+.ingredients-ulist,
+li,
+p {
     font-size: 22px;
+}
+
+.ingredients-ulist li {
     padding: 4px 4px 4px 4px;
 }
 
-li {
-    font-size: 22px;
-}
-
 p {
-    font-size: 22px;
     text-align: justify;
 }
