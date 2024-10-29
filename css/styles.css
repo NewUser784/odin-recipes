@@ -23,11 +23,29 @@ img {
     margin-left: auto;
     margin-right: auto;
     border-radius: 10px;
+    padding-bottom: 24px;
 }
 
 /* herby ricotta */
-.herby-ricotta-h2 {
+h2 {
+    display:inline-block;
     background-color: rgb(175, 130, 92);
     color: white;
-    margin-right: 920px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 4px;
+}
+
+p {
+    font-size: 22px;
+    text-align: justify;
+}
+
+.ingredients-ulist li {
+    font-size: 22px;
+    padding: 4px 4px 4px 4px;
+}
+/* End of herby-ricotta css */
+
+li {
+    font-size: 22px;
 }
