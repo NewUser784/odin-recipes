@@ -2,7 +2,6 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-/* index.html */
 h1 {
     background-color: rgb(193, 159, 75);
     color: white;
@@ -14,7 +13,6 @@ h1 {
     padding: 6px;
     font-size: 26px;
 }
-/* End of index.html css */
 
 img {
     width: 600px;
@@ -23,10 +21,8 @@ img {
     margin-left: auto;
     margin-right: auto;
     border-radius: 10px;
-    padding-bottom: 24px;
 }
 
-/* herby ricotta */
 h2 {
     display:inline-block;
     background-color: rgb(175, 130, 92);
@@ -35,17 +31,16 @@ h2 {
     border-radius: 4px;
 }
 
-p {
-    font-size: 22px;
-    text-align: justify;
-}
-
 .ingredients-ulist li {
     font-size: 22px;
     padding: 4px 4px 4px 4px;
 }
-/* End of herby-ricotta css */
 
 li {
     font-size: 22px;
+}
+
+p {
+    font-size: 22px;
+    text-align: justify;
 }
