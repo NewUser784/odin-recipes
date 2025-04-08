@@ -112,14 +112,32 @@ nav {
 
 /* Title */
 .recipe-card h3 {
-    border-bottom: 2px solid black;
-    padding-bottom: 8px;
+    height: 40px;
+    font-size: 20px;
+    background-color: #ee6c4d;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+    padding-top: 8px;
+    padding-bottom: 2px;
     padding-left: 6px;
-    margin-top: 10px;
+    margin-top: 0px;
 }
+
+/* Title link */
+.card-title a:link, .card-title a:visited,
+.card-title a:hover, .card-title a:active {
+    text-decoration: none;
+    color: white;
+}
+
+.card-title a:hover {
+    color: rgb(219, 219, 219);
+}
+/* Title link End */
 
 /* Body */
 .card-text-preview {
+    font-size: 20px;
     padding-left: 8px;
 }
 
